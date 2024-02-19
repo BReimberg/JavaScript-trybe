@@ -2,6 +2,7 @@
 Compare os nomes 🗣
 Verifique as variáveis abaixo e valide as seguintes afirmações utilizando os operadores condicionais:
 */
+
 let nomePessoa1 = 'Cleyton';
 let nomePessoa2 = 'Sheila';
 let idadePessoa1 = 30;
